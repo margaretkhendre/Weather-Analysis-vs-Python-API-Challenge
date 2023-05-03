@@ -29,7 +29,7 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 **Requirement 2: Compute Linear Regression for Each Relationship**
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
 
---image
+--image (refer to mod 6 for images)
 
 Create the following plots:
 
